@@ -15,3 +15,4 @@ Step 2. Add the dependency
 	dependencies {
 	        compile 'com.github.609323817:XRecyclerView:1.0.2'
 	}
+
